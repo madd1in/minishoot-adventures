@@ -1,0 +1,6 @@
+{
+  "name": "Minishoot Adventure",
+  "description": "An action-packed 2D top-down retro bullet-hell adventure game inspired by Minishoot' Adventure. Explore mapped dungeon sectors, upgrade your starship's abilities, defeat unique waves of space enemies, and challenge the colossal boss!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
